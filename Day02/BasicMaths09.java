@@ -8,7 +8,7 @@ public class BasicMaths09 {
 
         while (num != 0) {
             int digit = num % 10;
-            sum += digit * digit * digit; 6
+            sum += digit * digit * digit; 
             num /= 10;
         }
 
