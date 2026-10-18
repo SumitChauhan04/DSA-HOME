@@ -1,6 +1,5 @@
 // leetcode 2913. Subarrays Distinct Element Sum of Squares I
 
-package Day03;
 import java.util.*;
 public class Problem02 {
 

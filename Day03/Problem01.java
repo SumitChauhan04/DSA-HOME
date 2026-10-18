@@ -1,6 +1,5 @@
 //leetcode problem find the pivot integer
 
-package Day03;
 
 import java.util.Scanner;
 
